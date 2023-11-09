@@ -16,7 +16,7 @@ const Footer: React.FC<IProps> = (props: IProps): React.ReactElement => {
                 <Col sm>Contacts</Col>
             </Row>
             <Row>
-                <Col>© 2023 pwCommerce.com, </Col>
+                <Col>© 2023 pwCommerce.com</Col>
             </Row>
         </Container>
         
