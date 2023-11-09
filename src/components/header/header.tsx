@@ -9,7 +9,7 @@ const Header: React.FC<IProps> = (props: IProps): React.ReactElement => {
 
     return (
         <Card>
-        <Card.Img variant="top" src="holder.js/100px180" />
+        <Card.Img variant="top" src="./header.jpg" />
         <Card.Body>
           <Card.Text>
             <Menu/>
